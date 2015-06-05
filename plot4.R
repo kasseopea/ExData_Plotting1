@@ -20,7 +20,7 @@ png(filename = "plot4.png", width=480, height=480)
 #make columns in the output
 par(mfrow = c(2,2), mar = c(4,4,2,2), oma= c(0,0,0,0))
 #graph 1 - Global Active Power
-with(data2, plot(DateTime, as.numeric(as.character(Global_active_power)), type = "l", ylab = "Global Active Power (kilowatts)" , xlab=""))
+with(data2, plot(DateTime, as.numeric(as.character(Global_active_power)), type = "l", ylab = "Global Active Power" , xlab=""))
 #graph 2 - Voltage
 with(data2, plot(DateTime, as.numeric(as.character(Voltage)), type = "l", ylab = "Voltage", xlab="datetime"))
 #graph 3 - Energy sub metering, the legend box is transparent

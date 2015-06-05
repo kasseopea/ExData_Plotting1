@@ -47,7 +47,7 @@ First you will need to fork and clone the following GitHub repository:
 ## Results : Plots produced by my R Scripts (Plot1.R, Plot2.R, Plot3.R, Plot4.R)
 
 
-### Plot 1 (
+### Plot 1
 
 
 ![plot of plot1](plot1.png) 
