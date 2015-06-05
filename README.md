@@ -1,12 +1,19 @@
 ## Introduction
 
+The overall goal here is simply to examine how household energy usage
+varies over a 2-day period in February, 2007. My task is to
+reconstruct the following plots in rdpeng/ExData_Plotting1's GIT repository, all of which were constructed
+using the base plotting system. Resuting plots can be seen below.
+
+RDPeng's Git:
+[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
 datasets. In particular, we will be using the "Individual household
 electric power consumption Data Set" which I have made available on
 the course web site:
-
 
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
@@ -32,16 +39,6 @@ web site</a>:
 <li><b>Sub_metering_2</b>: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light. </li>
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
-
-## Making Plots
-
-The overall goal here is simply to examine how household energy usage
-varies over a 2-day period in February, 2007. My task is to
-reconstruct the following plots in rdpeng/ExData_Plotting1's GIT repository, all of which were constructed
-using the base plotting system.
-
-First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
 
 ## Results : Plots produced by my R Scripts (Plot1.R, Plot2.R, Plot3.R, Plot4.R)
