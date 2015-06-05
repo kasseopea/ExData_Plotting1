@@ -3,7 +3,8 @@
 The overall goal here is simply to examine how household energy usage
 varies over a 2-day period in February, 2007. My task is to
 reconstruct the following plots in rdpeng/ExData_Plotting1's GIT repository, all of which were constructed
-using the base plotting system. Resuting plots can be seen below.
+using the base plotting system. 
+<li><b>Resuting plots can be seen below.</b></li>
 
 RDPeng's Git:
 [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
